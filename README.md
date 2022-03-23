@@ -1,4 +1,4 @@
-# vet-executive
+# vetpharma
 
 ## Project setup
 ```
